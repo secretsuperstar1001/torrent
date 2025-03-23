@@ -201,7 +201,7 @@ MaxCDN) for easy inclusion on your site:
 </script>
 ```
 
-##### Chrome App
+#### Chrome App
 
 If you want to use WebTorrent in a
 [Chrome App](https://developer.chrome.com/apps/about_apps), you can include the
