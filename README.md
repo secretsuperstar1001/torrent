@@ -399,6 +399,6 @@ Disable by running this:
 localStorage.removeItem('debug')
 ```
 
-### License
+#### License
 
 MIT. Copyright (c) [Feross Aboukhadijeh](https://feross.org) and [WebTorrent, LLC](https://webtorrent.io).
